@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d5916,100:074613&height=180&text=k9rii's%20GitHub&animation=&fontColor=1a1a1a&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=180&text=k9rii's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -22,7 +22,13 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=k9rii&custom_title=k9rii's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9rii&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k9rii&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+            /> </div> 
     </div>
-    
+    <div style="text-align: left;">
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Solved.ac </h2> <br>
+      <div style="text-align: left;">
+        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k9rii)](https://solved.ac/k9rii)
+        <img src="http://mazandi.herokuapp.com/api?handle=k9rii&theme=warm"/>
+      </div>
+    </div>
