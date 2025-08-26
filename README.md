@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:6a11cb&height=180&text=k9rii's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:1c1c1c&height=180&text=k9rii's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
@@ -27,7 +27,6 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Solved.ac </h2> <br>
   <div style="text-align: left;">
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k9rii)](https://solved.ac/k9rii)
     <img src="http://mazandi.herokuapp.com/api?handle=k9rii&theme=warm"/>
   </div>
 </div>
